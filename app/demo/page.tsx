@@ -40,15 +40,8 @@ export default function DemoPage() {
             <h2 className="text-xl font-semibold mb-4">Integration Example</h2>
             <pre className="bg-muted p-4 rounded overflow-x-auto text-sm">
               <code>{`// Add this to your website
-<script src="https://widget-app.com/embed.js"></script>
-<script>
-  WidgetApp.init({
-    apiKey: "your-api-key",
-    theme: "light"
-  });
-</script>`}</code>
-            </pre>
-          </div>
+
+      </div>
           
           <div className="bg-card rounded-lg border p-6">
             <h2 className="text-xl font-semibold mb-4">Customization</h2>
